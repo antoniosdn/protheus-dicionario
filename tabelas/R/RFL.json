@@ -1,0 +1,1 @@
+{"tabela":"RFL","nome":"Jornadas","nome_eng":"Working Journeys","modo":"C","arquivo":"RFL990","campos":[{"campo":"RFL_FILIAL","titulo":"Filial","tipo":"C","tam":2,"dec":0},{"campo":"RFL_JORN","titulo":"Jornada","tipo":"C","tam":3,"dec":0}],"indices":[{"ordem":"1","chave":"RFL_FILIAL+RFL_JORN","descricao":"Jornada"}]}

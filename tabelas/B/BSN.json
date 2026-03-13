@@ -1,0 +1,1 @@
+{"tabela":"BSN","nome":"Sequência da Transação Online","nome_eng":"On-line transaction sequence","modo":"C","arquivo":"BSN990","campos":[{"campo":"BSN_FILIAL","titulo":"Filial","tipo":"C","tam":2,"dec":0},{"campo":"BSN_SEQUEN","titulo":"Sequencia","tipo":"C","tam":10,"dec":0}],"indices":[{"ordem":"1","chave":"BSN_FILIAL+BSN_SEQUEN","descricao":"Sequencia"}]}

@@ -1,0 +1,1 @@
+{"tabela":"KA1","nome":"Reserva","nome_eng":"Reserve","modo":"E","arquivo":"KA1990","campos":[{"campo":"KA1_FILIAL","titulo":"Filial","tipo":"C","tam":2,"dec":0}],"indices":[{"ordem":"1","chave":"KA1_FILIAL","descricao":"Filial"}]}
