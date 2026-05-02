@@ -66,7 +66,7 @@ index.json            # Indice com codigo, nome e prefixo de todas as tabelas
 https://raw.githubusercontent.com/antoniosdn/protheus-dicionario/main/tabelas/{PREFIX}/{CODE}.json
 ```
 
-Exemplo: `https://raw.githubusercontent.com/Johnnni/protheus-dicionario/main/tabelas/S/SA1.json`
+Exemplo: `https://raw.githubusercontent.com/antoniosdn/protheus-dicionario/main/tabelas/S/SA1.json`
 
 ## Nota sobre nomes reservados do Windows
 
